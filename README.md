@@ -2,7 +2,7 @@
 Uses both supervised and unsupervised learning algorithms
 Anomaly detection helps in the early detection of critical outliers in a system. Based on the context, these outliers can be detrimental and result in loss of resources, and time through errors, fraud, manipulation of stocks, and other such malicious activities. Outliers can also be beneficial for example in investing, and arbitrage. Business decisions that leverage anomaly detection, which used to require intense human resource and capacity can now be completed in a short time through versatile models and automation. In this project I implemented the findings of the Feature Engineering for Credit Card Fraud research paper to create both supervised and unsupervised models for fraud detection.
 
-#Feature Engineering for Credit Card Fraud Paper Summary
+# Feature Engineering for Credit Card Fraud Paper Summary
 
 The Feature engineering strategies for credit card fraud detection was an essential framework in creating features to analyze credit card transaction data.
 
@@ -16,5 +16,5 @@ When using the aggregated features, there is still some information that is not 
 
 The project shown the importance of using features that analyze the consumer behavior of individual cardholders when constructing a credit card fraud detection model. We show that by preprocessing the data to include their cent consumer behavior,the performance increases by more than 200% compared to using only the raw transaction information.
 
-#Modeling Approaches:
+# Modeling Approaches:
 In this repository, I experimented with different anomomly detection methods, both supervised and unsupervised.
